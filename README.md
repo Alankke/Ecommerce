@@ -40,6 +40,6 @@ The application was built following key backend design and development principle
 ## Try it out
 You can try the API and see the endpoints by going here [link](http://98.83.153.240/swagger-ui/index.html).
 
-## Proof of participation:
+## Proof of participation
 Globant University campus site screenshot: (Waiting validated certificate from Globant)
 ![image](https://github.com/user-attachments/assets/b4c5de79-a70c-4e95-9a8f-5537cb2d938c)
