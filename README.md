@@ -7,7 +7,7 @@ This project is an e-commerce API built with Java and Spring Boot, developed to 
 - [Try it out](#Try-it-out).
 
 ## Features
-- CRUD operations for managing e-commerce products, orders, and users.
+- CRUD operations for managing e-commerce products, carts, and customers.
 - In-memory caching for frequently accessed data.
 - Email messaging between with RabbitMQ.
 - Dockerized for easy deployment.
